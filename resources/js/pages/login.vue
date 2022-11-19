@@ -9,7 +9,7 @@
             <div class="col-sm-8">
                 <div class="row justify-content-center">
                     <div class="col-sm-6 mt-4">
-                        <h2>Login</h2>
+                        <h2 class="p-3 text-center">Login</h2>
 
                         <p class="text-danger" v-if="error">{{ error }}</p>
 
