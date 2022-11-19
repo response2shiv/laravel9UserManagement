@@ -9,7 +9,7 @@
             <div class="col-sm-8">
                 <div class="row justify-content-center">
                     <div class="col-sm-6 mt-4">
-                        <h2>Register</h2>
+                        <h2 class="p-3 text-center">Register</h2>
 
                         <p v-if="process.verificationEmail">
                             Hi {{form.name}},
